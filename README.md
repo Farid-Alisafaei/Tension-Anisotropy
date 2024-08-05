@@ -1,6 +1,24 @@
 # Tension-Anisotropy
+
+Source code for the following manuscript:
 Tension anisotropy drives phenotypic transitions of cells via two-way cell-ECM feedback
 
+Farid Alisafaei1,2,*, Delaram Shakiba1,3,*, Yuan Hong1,3,*, Ghiska Ramahdita1,3,4*, Yuxuan Huang1,4, Leanne E. Iannucci4, Matthew D. Davidson1,5,6, Mohammad Jafari1,2, Jin Qian1,3, Chengqing Qu1,3, David Ju1,3, Dashiell R. Flory1,3, Yin-Yuan Huang1,4, Prashant Gupta3, Shumeng Jiang 1,3, Aliza Mujahid1,2,3, Srikanth Singamaneni3, Kenneth M. Pryse3, Pen-hsiu Grace Chao7, Jason A. Burdick1,5,6, Spencer P. Lake3,4,8, Elliot L. Elson1,9, 
+Nathaniel Huebsch1,3,4,#, Vivek B. Shenoy1,10,#, Guy M. Genin1,3,4,#
+
+Affiliations:	
+1	NSF Science and Technology Center for Engineering Mechanobiology
+2	Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology, Newark, NJ 07102, USA
+3	Department of Mechanical Engineering & Materials Science Washington University in St. Louis, St. Louis, MO 63130, USA
+4	Department of Biomedical Engineering, Washington University in St. Louis, St. Louis, MO 63130, USA
+5	BioFrontiers Institute, University of Colorado Boulder, Boulder, CO 80303, USA
+6	Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO 80303, USA
+7	Department of Biomedical Engineering, School of Engineering and School of Medicine, National Taiwan University, Taipei, Taiwan
+8	Department of Orthopaedic Surgery, Washington University in St. Louis, St. Louis, MO 63130, USA
+9	Washington University School of Medicine, Department of Biochemistry and Molecular Biophysics, St. Louis, MO 63130, USA
+10	Department of Materials Science and Engineering, School of Engineering and Applied Science, University of Pennsylvania, Philadelphia, PA 19104, USA
+
+----------------------------------------------------------------
 Running the simulations using the three-dimensional cytoskeletal model
 
 Prerequisites:
