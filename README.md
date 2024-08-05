@@ -1,16 +1,20 @@
 # Tension-Anisotropy
 
+
 Source code for the following manuscript:
+
 
 Title:
 
 Tension anisotropy drives phenotypic transitions of cells via two-way cell-ECM feedback
 
 
+
 Authors:
 
-Farid Alisafaei(1,2,#), Delaram Shakiba (1,3,#), Yuan Hong (1,3,#), Ghiska Ramahdita (1,3,4,#), Yuxuan Huang (1,4), Leanne E. Iannucci (4), Matthew D. Davidson (1,5,6), Mohammad Jafari (1,2), Jin Qian (1,3), Chengqing Qu (1,3), David Ju (1,3), Dashiell R. Flory (1,3), Yin-Yuan Huang (1,4), Prashant Gupta (3), Shumeng Jiang (1,3), Aliza Mujahid (1,2,3), Srikanth Singamaneni (3), Kenneth M. Pryse (3), Pen-hsiu Grace Chao (7), Jason A. Burdick (1,5,6), Spencer P. Lake (3,4,8), Elliot L. Elson (1,9), 
+Farid Alisafaei (1,2,#), Delaram Shakiba (1,3,#), Yuan Hong (1,3,#), Ghiska Ramahdita (1,3,4,#), Yuxuan Huang (1,4), Leanne E. Iannucci (4), Matthew D. Davidson (1,5,6), Mohammad Jafari (1,2), Jin Qian (1,3), Chengqing Qu (1,3), David Ju (1,3), Dashiell R. Flory (1,3), Yin-Yuan Huang (1,4), Prashant Gupta (3), Shumeng Jiang (1,3), Aliza Mujahid (1,2,3), Srikanth Singamaneni (3), Kenneth M. Pryse (3), Pen-hsiu Grace Chao (7), Jason A. Burdick (1,5,6), Spencer P. Lake (3,4,8), Elliot L. Elson (1,9), 
 Nathaniel Huebsch (1,3,4,#), Vivek B. Shenoy (1,10,#), Guy M. Genin (1,3,4,#)
+
 
 
 Affiliations:	
