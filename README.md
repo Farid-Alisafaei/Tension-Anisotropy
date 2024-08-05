@@ -1,10 +1,13 @@
 # Tension-Anisotropy
 
 Source code for the following manuscript:
+
+Title:
 Tension anisotropy drives phenotypic transitions of cells via two-way cell-ECM feedback
 
-Farid Alisafaei1,2,*, Delaram Shakiba1,3,*, Yuan Hong1,3,*, Ghiska Ramahdita1,3,4*, Yuxuan Huang1,4, Leanne E. Iannucci4, Matthew D. Davidson1,5,6, Mohammad Jafari1,2, Jin Qian1,3, Chengqing Qu1,3, David Ju1,3, Dashiell R. Flory1,3, Yin-Yuan Huang1,4, Prashant Gupta3, Shumeng Jiang 1,3, Aliza Mujahid1,2,3, Srikanth Singamaneni3, Kenneth M. Pryse3, Pen-hsiu Grace Chao7, Jason A. Burdick1,5,6, Spencer P. Lake3,4,8, Elliot L. Elson1,9, 
-Nathaniel Huebsch1,3,4,#, Vivek B. Shenoy1,10,#, Guy M. Genin1,3,4,#
+Authors:
+Farid Alisafaei(1,2,#), Delaram Shakiba (1,3,#), Yuan Hong (1,3,#), Ghiska Ramahdita (1,3,4,#), Yuxuan Huang (1,4), Leanne E. Iannucci (4), Matthew D. Davidson (1,5,6), Mohammad Jafari (1,2), Jin Qian (1,3), Chengqing Qu (1,3), David Ju (1,3), Dashiell R. Flory (1,3), Yin-Yuan Huang (1,4), Prashant Gupta (3), Shumeng Jiang (1,3), Aliza Mujahid (1,2,3), Srikanth Singamaneni (3), Kenneth M. Pryse (3), Pen-hsiu Grace Chao (7), Jason A. Burdick (1,5,6), Spencer P. Lake (3,4,8), Elliot L. Elson (1,9), 
+Nathaniel Huebsch (1,3,4,#), Vivek B. Shenoy (1,10,#), Guy M. Genin (1,3,4,#)
 
 Affiliations:	
 1	NSF Science and Technology Center for Engineering Mechanobiology
@@ -19,7 +22,10 @@ Affiliations:
 10	Department of Materials Science and Engineering, School of Engineering and Applied Science, University of Pennsylvania, Philadelphia, PA 19104, USA
 
 ----------------------------------------------------------------
+
 Running the simulations using the three-dimensional cytoskeletal model
+
+----------------------------------------------------------------
 
 Prerequisites:
 
