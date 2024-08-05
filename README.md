@@ -3,23 +3,38 @@
 Source code for the following manuscript:
 
 Title:
+
 Tension anisotropy drives phenotypic transitions of cells via two-way cell-ECM feedback
 
+
 Authors:
+
 Farid Alisafaei(1,2,#), Delaram Shakiba (1,3,#), Yuan Hong (1,3,#), Ghiska Ramahdita (1,3,4,#), Yuxuan Huang (1,4), Leanne E. Iannucci (4), Matthew D. Davidson (1,5,6), Mohammad Jafari (1,2), Jin Qian (1,3), Chengqing Qu (1,3), David Ju (1,3), Dashiell R. Flory (1,3), Yin-Yuan Huang (1,4), Prashant Gupta (3), Shumeng Jiang (1,3), Aliza Mujahid (1,2,3), Srikanth Singamaneni (3), Kenneth M. Pryse (3), Pen-hsiu Grace Chao (7), Jason A. Burdick (1,5,6), Spencer P. Lake (3,4,8), Elliot L. Elson (1,9), 
 Nathaniel Huebsch (1,3,4,#), Vivek B. Shenoy (1,10,#), Guy M. Genin (1,3,4,#)
 
+
 Affiliations:	
+
 1	NSF Science and Technology Center for Engineering Mechanobiology
+
 2	Department of Mechanical and Industrial Engineering, New Jersey Institute of Technology, Newark, NJ 07102, USA
+
 3	Department of Mechanical Engineering & Materials Science Washington University in St. Louis, St. Louis, MO 63130, USA
+
 4	Department of Biomedical Engineering, Washington University in St. Louis, St. Louis, MO 63130, USA
+
 5	BioFrontiers Institute, University of Colorado Boulder, Boulder, CO 80303, USA
+
 6	Department of Chemical and Biological Engineering, University of Colorado Boulder, Boulder, CO 80303, USA
+
 7	Department of Biomedical Engineering, School of Engineering and School of Medicine, National Taiwan University, Taipei, Taiwan
+
 8	Department of Orthopaedic Surgery, Washington University in St. Louis, St. Louis, MO 63130, USA
+
 9	Washington University School of Medicine, Department of Biochemistry and Molecular Biophysics, St. Louis, MO 63130, USA
+
 10	Department of Materials Science and Engineering, School of Engineering and Applied Science, University of Pennsylvania, Philadelphia, PA 19104, USA
+
 
 ----------------------------------------------------------------
 
